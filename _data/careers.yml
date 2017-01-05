@@ -1,56 +1,33 @@
 # careers section data
 - name:
-    detail: Nextcode
-    i18n: nextcode
+    detail: 亚心网
   desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
-    i18n: nextcode_des
+    detail: 现在我在亚心网，使用PHP、NodeJS等语言为项目做开发
   date:
-    detail: Apr. 2016
-    i18n: nextcode_date
+    detail: 2012年11月至今
+
   job:
-    detail: Python Developer
-    i18n: nextcode_job
+    detail: Php 软件开发工程师
   icon: fa-plus-square
 
 - name:
-    detail: Netease Game
-    i18n: netease
+    detail: 吉瑞祥
   desc:
-    detail: In Netease game, I learned game service system and use Python code for ops.
-    i18n: netease_des
+    detail: 在吉瑞祥为公司开发ERP系统、订单管理系统、自动化处理定制家具报表
   date:
-    detail: Jun. 2015
-    i18n: nextcode_date
+    detail: 9月 2011
   job:
-    detail: Dev Ops
-    i18n: netease_job
+    detail: 软件开发
   icon: fa-gamepad
 
-- name:
-    detail: Ucloud
-    i18n: ucloud
-  desc:
-    detail: In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.
-    i18n: ucloud_des
-  date:
-    detail: Sep. 2013
-    i18n: ucloud_date
-  job:
-    detail: Dev Ops
-    i18n: ucloud_job
-  icon: fa-cloud
+
 
 - name:
-    detail: Graduation
-    i18n: college
+    detail: 毕业
   desc:
-    detail: At July 2013,I graduated from college and started my IT technology tour.
-    i18n: college_des
+    detail: 2011年9月毕业于石河子大学，开始了IT职业生涯
   date:
-    detail: Jul. 2013
-    i18n: college_date
+    detail: 2011年9月
   job:
-    detail: Student
-    i18n: college_job
+    detail: 学生
   icon: fa-book
